@@ -8,7 +8,8 @@ Rule based sentiment analysis refers to the study conducted by the language expe
 
 In Rule-base approach, we take into account to measures: polarity and subjetivity.
 
-*Polarity:* it is a measurement of how positive or negative the given problem instance is. In other words, it is related to the emotion of the given text
+*Polarity:* it is a measurement of how positive or negative the given problem instance is. In other words, it is related to the emotion of the given text.
+
 *Subjectivity:* It refers to opinions or views (can be allegations, expressions or speculations) that need to be analyzed in the given context of the problem statement. The more subjective the instance is, the less objective it becomes and vice versa.
 
 ## Traditional ML
@@ -31,4 +32,3 @@ TF-IDF(Term Frequency-Inverse Document Frequency) normalizes the document term m
 To vectorized the features the code uses:
 
 	TfidfVectorizer()
-
