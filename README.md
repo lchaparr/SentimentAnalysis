@@ -12,6 +12,7 @@ Machine learning based approach: Develop a classification model, which is traine
 The bag-of-words model is one of the simplest language models used in NLP. It makes an unigram model of the text by keeping track of the number of occurences of each word. This can later be used as a features for Text Classifiers. BOW model is a common way of representing text data as input feature vector to an ML model. 
 
 To vectorized the features the code uses:
+
 	CountVectorizer()
 
 ### TF-IDF.
@@ -22,5 +23,6 @@ IDF(Inverse Document Frequency) measures the amount of information a given word 
 TF-IDF(Term Frequency-Inverse Document Frequency) normalizes the document term matrix. It is the product of TF and IDF. Word with high tf-idf in a document, it is most of the times occurred in given documents and must be absent in the other documents. So the words must be a signature word.
 
 To vectorized the features the code uses:
+
 	TfidfVectorizer()
 
