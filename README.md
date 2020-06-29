@@ -1,9 +1,14 @@
 # SentimentAnalysis
-Sentiment Analysis over tweets with Security topics.
-The code explores the performance of different kinds of sentiment analysis
+Sentiment analysis is the interpretation and classification of emotions (positive, negative and neutral) within text data using text analysis techniques.
+
+The code explores the performance of different kinds of sentiment analysis over tweets with Security topics.
 
 ## Lexicon Method
-Lexicon-based: count number of positive and negative words in given text and the larger count will be the sentiment of text.
+Rule based sentiment analysis refers to the study conducted by the language experts. The outcome of this study is a set of rules (also known as lexicon or sentiment lexicon) according to which the words classified are either positive or negative along with their corresponding intensity measure.
+
+In Rule-base approach, we take into account to measures: polarity and subjetivity
+	Polarity: it is a measurement of how positive or negative the given problem instance is. In other words, it is related to the emotion of the given text
+	Subjectivity: It refers to opinions or views (can be allegations, expressions or speculations) that need to be analyzed in the given context of the problem statement. The more subjective the instance is, the less objective it becomes and vice versa.
 
 ## Traditional ML
 Machine learning based approach: Develop a classification model, which is trained using the pre-labeled dataset of positive, negative, and neutral.
