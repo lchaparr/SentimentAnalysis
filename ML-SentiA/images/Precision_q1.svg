@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="main-svg"
+   width="700"
+   height="500"
+   style=""
+   viewBox="0 0 700 500"
+   version="1.1"
+   id="svg10660"
+   sodipodi:docname="Precision_q1.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata10664">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1065"
+     inkscape:window-height="688"
+     id="namedview10662"
+     showgrid="false"
+     inkscape:zoom="0.85"
+     inkscape:cx="444.11765"
+     inkscape:cy="250"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10660" />
+  <rect
+     x="43.529411"
+     y="64.705879"
+     width="565.88232"
+     height="401.17648"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.80537248"
+     id="rect10047" />
+  <defs
+     id="defs-8e615e">
+    <g
+       class="clips"
+       id="g10061">
+      <clipPath
+         id="clip8e615exyplot"
+         class="plotclip">
+        <rect
+           width="485"
+           height="320"
+           id="rect10049" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip8e615ex">
+        <rect
+           x="80"
+           y="0"
+           width="485"
+           height="500"
+           id="rect10052" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip8e615ey">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="320"
+           id="rect10055" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip8e615exy">
+        <rect
+           x="80"
+           y="100"
+           width="485"
+           height="320"
+           id="rect10058" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g10063" />
+  </defs>
+  <g
+     class="bglayer"
+     id="g10068">
+    <rect
+       class="bg"
+       x="80"
+       y="100"
+       width="485"
+       height="320"
+       style="fill: rgb(229, 236, 246); fill-opacity: 1; stroke-width: 0;"
+       id="rect10066" />
+  </g>
+  <g
+     class="layer-below"
+     id="g10074">
+    <g
+       class="imagelayer"
+       id="g10070" />
+    <g
+       class="shapelayer"
+       id="g10072" />
+  </g>
+  <g
+     class="cartesianlayer"
+     id="g10466">
+    <g
+       class="subplot xy"
+       id="g10464">
+      <g
+         class="layer-subplot"
+         id="g10080">
+        <g
+           class="shapelayer"
+           id="g10076" />
+        <g
+           class="imagelayer"
+           id="g10078" />
+      </g>
+      <g
+         class="gridlayer"
+         id="g10110">
+        <g
+           class="x"
+           id="g10090">
+          <path
+             class="xgrid crisp"
+             transform="translate(142.12,0)"
+             d="M0,100v320"
+             style="stroke: rgb(255, 255, 255); stroke-opacity: 1; stroke-width: 1px;"
+             id="path10082" />
+          <path
+             class="xgrid crisp"
+             transform="translate(262.37,0)"
+             d="M0,100v320"
+             style="stroke: rgb(255, 255, 255); stroke-opacity: 1; stroke-width: 1px;"
+             id="path10084" />
+          <path
+             class="xgrid crisp"
+             transform="translate(382.63,0)"
+             d="M0,100v320"
+             style="stroke: rgb(255, 255, 255); stroke-opacity: 1; stroke-width: 1px;"
+             id="path10086" />
+          <path
+             class="xgrid crisp"
+             transform="translate(502.88,0)"
+             d="M0,100v320"
+             style="stroke: rgb(255, 255, 255); stroke-opacity: 1; stroke-width: 1px;"
+             id="path10088" />
+        </g>
+        <g
+           class="y"
+           id="g10108">
+          <path
+             class="ygrid crisp"
+             transform="translate(0,384.74)"
+             d="M80,0h485"
+             style="stroke: rgb(255, 255, 255); stroke-opacity: 1; stroke-width: 1px;"
+             id="path10092" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,345.76)"
+             d="M80,0h485"
+             style="stroke: rgb(255, 255, 255); stroke-opacity: 1; stroke-width: 1px;"
+             id="path10094" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,306.78)"
+             d="M80,0h485"
+             style="stroke: rgb(255, 255, 255); stroke-opacity: 1; stroke-width: 1px;"
+             id="path10096" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,267.8)"
+             d="M80,0h485"
+             style="stroke: rgb(255, 255, 255); stroke-opacity: 1; stroke-width: 1px;"
+             id="path10098" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,228.82)"
+             d="M80,0h485"
+             style="stroke: rgb(255, 255, 255); stroke-opacity: 1; stroke-width: 1px;"
+             id="path10100" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,189.84)"
+             d="M80,0h485"
+             style="stroke: rgb(255, 255, 255); stroke-opacity: 1; stroke-width: 1px;"
+             id="path10102" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,150.87)"
+             d="M80,0h485"
+             style="stroke: rgb(255, 255, 255); stroke-opacity: 1; stroke-width: 1px;"
+             id="path10104" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,111.89)"
+             d="M80,0h485"
+             style="stroke: rgb(255, 255, 255); stroke-opacity: 1; stroke-width: 1px;"
+             id="path10106" />
+        </g>
+      </g>
+      <g
+         class="zerolinelayer"
+         id="g10112" />
+      <path
+         class="xlines-below"
+         id="path10114" />
+      <path
+         class="ylines-below"
+         id="path10116" />
+      <g
+         class="overlines-below"
+         id="g10118" />
+      <g
+         class="xaxislayer-below"
+         id="g10120" />
+      <g
+         class="yaxislayer-below"
+         id="g10122" />
+      <g
+         class="overaxes-below"
+         id="g10124" />
+      <g
+         class="plot"
+         transform="translate(80, 100)"
+         clip-path="url('#clip8e615exyplot')"
+         id="g10400">
+        <g
+           class="violinlayer mlayer"
+           id="g10398">
+          <g
+             class="trace violins"
+             style="opacity: 1;"
+             id="g10158">
+            <path
+               class="violin"
+               d="M62.12,136.96L61.06,136.96Q60.5,140.72 60.11,142.59C59.71,144.48 59.24,146.36 58.69,148.23C58.14,150.12 57.48,152 56.81,153.87C56.14,155.75 55.36,157.62 54.66,159.5C53.96,161.38 53.21,163.25 52.59,165.14C51.98,167.01 51.38,168.89 50.96,170.78C50.54,172.64 50.23,174.53 50.05,176.41C49.87,178.28 49.84,180.17 49.86,182.05C49.88,183.93 50.04,185.81 50.17,187.69C50.3,189.57 50.51,191.45 50.64,193.33C50.77,195.21 50.89,197.08 50.96,198.96C51.03,200.84 51.03,202.72 51.03,204.6C51.03,206.48 50.96,208.36 50.94,210.24C50.92,212.12 50.88,213.99 50.93,215.87C50.98,217.75 51.07,219.63 51.26,221.51C51.45,223.39 51.72,225.28 52.05,227.15C52.38,229.03 52.82,230.91 53.26,232.78C53.7,234.66 54.22,236.54 54.7,238.42C55.18,240.3 55.7,242.18 56.16,244.06C56.62,245.93 57.07,247.81 57.47,249.69C57.87,251.57 58.23,253.45 58.56,255.33C58.89,257.21 59.19,259.09 59.47,260.97C59.74,262.85 59.99,264.73 60.21,266.61C60.43,268.49 60.63,270.36 60.81,272.24C60.99,274.12 61.14,276 61.28,277.88C61.42,279.76 61.53,281.64 61.63,283.52Q61.73,285.4 61.86,289.15L62.12,289.15"
+               style="vector-effect: non-scaling-stroke; stroke-width: 2px; stroke: rgb(0, 128, 0); stroke-opacity: 1; fill: rgb(0, 128, 0); fill-opacity: 0.5;"
+               id="path10126" />
+            <path
+               class="meanline"
+               d="M51.0181884765625,201.49H62.12"
+               style="fill: none; vector-effect: non-scaling-stroke; stroke-width: 2px; stroke-dasharray: 4px, 2px; stroke: rgb(0, 128, 0); stroke-opacity: 1;"
+               id="path10128" />
+            <g
+               class="points"
+               id="g10156">
+              <path
+                 class="point"
+                 transform="translate(28.81,254.44)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 128, 0); fill-opacity: 1;"
+                 id="path10130" />
+              <path
+                 class="point"
+                 transform="translate(27.98,226.28)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 128, 0); fill-opacity: 1;"
+                 id="path10132" />
+              <path
+                 class="point"
+                 transform="translate(28.99,225.8)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 128, 0); fill-opacity: 1;"
+                 id="path10134" />
+              <path
+                 class="point"
+                 transform="translate(27.87,224.96)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 128, 0); fill-opacity: 1;"
+                 id="path10136" />
+              <path
+                 class="point"
+                 transform="translate(28.28,219.96)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 128, 0); fill-opacity: 1;"
+                 id="path10138" />
+              <path
+                 class="point"
+                 transform="translate(28.85,206.25)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 128, 0); fill-opacity: 1;"
+                 id="path10140" />
+              <path
+                 class="point"
+                 transform="translate(28.42,205.23)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 128, 0); fill-opacity: 1;"
+                 id="path10142" />
+              <path
+                 class="point"
+                 transform="translate(28.72,187.49)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 128, 0); fill-opacity: 1;"
+                 id="path10144" />
+              <path
+                 class="point"
+                 transform="translate(28.17,177.48)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 128, 0); fill-opacity: 1;"
+                 id="path10146" />
+              <path
+                 class="point"
+                 transform="translate(27.81,174.74)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 128, 0); fill-opacity: 1;"
+                 id="path10148" />
+              <path
+                 class="point"
+                 transform="translate(28.71,172.86)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 128, 0); fill-opacity: 1;"
+                 id="path10150" />
+              <path
+                 class="point"
+                 transform="translate(28.15,172.15)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 128, 0); fill-opacity: 1;"
+                 id="path10152" />
+              <path
+                 class="point"
+                 transform="translate(29.21,171.67)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 128, 0); fill-opacity: 1;"
+                 id="path10154" />
+            </g>
+          </g>
+          <g
+             class="trace violins"
+             style="opacity: 1;"
+             id="g10192">
+            <path
+               class="violin"
+               d="M62.12,248.17L62.68,248.17Q62.99,244.37 63.23,242.48C63.47,240.58 63.76,238.69 64.13,236.8C64.5,234.9 64.95,233 65.46,231.11C65.98,229.2 66.58,227.31 67.22,225.42C67.87,223.52 68.6,221.63 69.32,219.74C70.04,217.84 70.83,215.95 71.54,214.05C72.24,212.16 72.96,210.28 73.56,208.37C74.15,206.49 74.7,204.59 75.11,202.68C75.51,200.8 75.81,198.9 75.99,197C76.17,195.11 76.2,193.21 76.17,191.31C76.14,189.41 75.98,187.51 75.83,185.62C75.68,183.72 75.43,181.83 75.26,179.94C75.08,178.04 74.9,176.15 74.78,174.25C74.67,172.36 74.6,170.46 74.57,168.57C74.54,166.67 74.59,164.78 74.61,162.88C74.63,160.99 74.7,159.09 74.7,157.2C74.7,155.3 74.69,153.4 74.58,151.51C74.47,149.61 74.3,147.71 74.03,145.82C73.76,143.92 73.4,142.03 72.97,140.14C72.54,138.24 72.01,136.34 71.46,134.45C70.91,132.55 70.29,130.66 69.69,128.77C69.09,126.87 68.45,124.98 67.87,123.08C67.29,121.19 66.7,119.3 66.19,117.4C65.68,115.51 65.21,113.61 64.8,111.71C64.39,109.82 64.05,107.92 63.75,106.02C63.46,104.13 63.22,102.24 63.03,100.34Q62.84,98.45 62.59,94.65L62.12,94.65"
+               style="vector-effect: non-scaling-stroke; stroke-width: 2px; stroke: rgb(32, 178, 170); stroke-opacity: 1; fill: rgb(32, 178, 170); fill-opacity: 0.5;"
+               id="path10160" />
+            <path
+               class="meanline"
+               d="M74.75572204589844,173.82H62.12"
+               style="fill: none; vector-effect: non-scaling-stroke; stroke-width: 2px; stroke-dasharray: 4px, 2px; stroke: rgb(32, 178, 170); stroke-opacity: 1;"
+               id="path10162" />
+            <g
+               class="points"
+               id="g10190">
+              <path
+                 class="point"
+                 transform="translate(96.4,212.91)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(32, 178, 170); fill-opacity: 1;"
+                 id="path10164" />
+              <path
+                 class="point"
+                 transform="translate(95.03,206.87)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(32, 178, 170); fill-opacity: 1;"
+                 id="path10166" />
+              <path
+                 class="point"
+                 transform="translate(96.56,201.04)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(32, 178, 170); fill-opacity: 1;"
+                 id="path10168" />
+              <path
+                 class="point"
+                 transform="translate(94.91,196.14)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(32, 178, 170); fill-opacity: 1;"
+                 id="path10170" />
+              <path
+                 class="point"
+                 transform="translate(95.54,191.95)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(32, 178, 170); fill-opacity: 1;"
+                 id="path10172" />
+              <path
+                 class="point"
+                 transform="translate(96.36,185.2)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(32, 178, 170); fill-opacity: 1;"
+                 id="path10174" />
+              <path
+                 class="point"
+                 transform="translate(95.75,181.81)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(32, 178, 170); fill-opacity: 1;"
+                 id="path10176" />
+              <path
+                 class="point"
+                 transform="translate(96.09,159.06)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(32, 178, 170); fill-opacity: 1;"
+                 id="path10178" />
+              <path
+                 class="point"
+                 transform="translate(95.47,157.95)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(32, 178, 170); fill-opacity: 1;"
+                 id="path10180" />
+              <path
+                 class="point"
+                 transform="translate(95.07,150.03)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(32, 178, 170); fill-opacity: 1;"
+                 id="path10182" />
+              <path
+                 class="point"
+                 transform="translate(96.05,149.55)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(32, 178, 170); fill-opacity: 1;"
+                 id="path10184" />
+              <path
+                 class="point"
+                 transform="translate(95.49,137.17)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(32, 178, 170); fill-opacity: 1;"
+                 id="path10186" />
+              <path
+                 class="point"
+                 transform="translate(96.51,129.91)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(32, 178, 170); fill-opacity: 1;"
+                 id="path10188" />
+            </g>
+          </g>
+          <g
+             class="trace violins"
+             style="opacity: 1;"
+             id="g10226">
+            <path
+               class="violin"
+               d="M182.37,144.05L181.53,144.05Q181.05,146.67 180.68,147.97C180.3,149.29 179.84,150.61 179.27,151.9C178.68,153.23 177.98,154.54 177.2,155.83C176.39,157.16 175.44,158.46 174.48,159.75C173.49,161.08 172.38,162.37 171.32,163.68C170.25,164.99 169.12,166.28 168.09,167.6C167.09,168.89 166.06,170.19 165.22,171.53C164.42,172.81 163.67,174.12 163.15,175.46C162.65,176.74 162.28,178.06 162.12,179.38C161.96,180.68 162.02,182.01 162.19,183.31C162.36,184.63 162.75,185.94 163.17,187.23C163.6,188.55 164.18,189.86 164.74,191.16C165.3,192.47 165.96,193.77 166.53,195.08C167.1,196.38 167.69,197.69 168.18,199.01C168.67,200.31 169.11,201.62 169.48,202.94C169.84,204.24 170.11,205.55 170.36,206.86C170.6,208.16 170.76,209.48 170.95,210.79C171.14,212.1 171.28,213.41 171.5,214.71C171.72,216.02 171.96,217.34 172.29,218.64C172.62,219.96 173.02,221.27 173.48,222.57C173.94,223.89 174.5,225.19 175.06,226.49C175.62,227.81 176.26,229.11 176.84,230.42C177.42,231.73 178.02,233.02 178.55,234.34C179.07,235.64 179.57,236.95 179.98,238.27C180.39,239.57 180.74,240.88 181.02,242.19Q181.3,243.49 181.68,246.12L182.37,246.12"
+               style="vector-effect: non-scaling-stroke; stroke-width: 2px; stroke: rgb(255, 0, 0); stroke-opacity: 1; fill: rgb(255, 0, 0); fill-opacity: 0.5;"
+               id="path10194" />
+            <path
+               class="meanline"
+               d="M164.73155212402344,191.14H182.37"
+               style="fill: none; vector-effect: non-scaling-stroke; stroke-width: 2px; stroke-dasharray: 4px, 2px; stroke: rgb(255, 0, 0); stroke-opacity: 1;"
+               id="path10196" />
+            <g
+               class="points"
+               id="g10224">
+              <path
+                 class="point"
+                 transform="translate(149.11,222.39)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(255, 0, 0); fill-opacity: 1;"
+                 id="path10198" />
+              <path
+                 class="point"
+                 transform="translate(148.18,219.08)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(255, 0, 0); fill-opacity: 1;"
+                 id="path10200" />
+              <path
+                 class="point"
+                 transform="translate(149.38,215.65)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(255, 0, 0); fill-opacity: 1;"
+                 id="path10202" />
+              <path
+                 class="point"
+                 transform="translate(147.93,201.6)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(255, 0, 0); fill-opacity: 1;"
+                 id="path10204" />
+              <path
+                 class="point"
+                 transform="translate(148.48,198.56)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(255, 0, 0); fill-opacity: 1;"
+                 id="path10206" />
+              <path
+                 class="point"
+                 transform="translate(149.19,188.13)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(255, 0, 0); fill-opacity: 1;"
+                 id="path10208" />
+              <path
+                 class="point"
+                 transform="translate(148.67,185.4)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(255, 0, 0); fill-opacity: 1;"
+                 id="path10210" />
+              <path
+                 class="point"
+                 transform="translate(148.98,184.2)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(255, 0, 0); fill-opacity: 1;"
+                 id="path10212" />
+              <path
+                 class="point"
+                 transform="translate(148.37,182.09)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(255, 0, 0); fill-opacity: 1;"
+                 id="path10214" />
+              <path
+                 class="point"
+                 transform="translate(147.94,175.83)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(255, 0, 0); fill-opacity: 1;"
+                 id="path10216" />
+              <path
+                 class="point"
+                 transform="translate(149.03,172.92)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(255, 0, 0); fill-opacity: 1;"
+                 id="path10218" />
+              <path
+                 class="point"
+                 transform="translate(148.31,171.19)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(255, 0, 0); fill-opacity: 1;"
+                 id="path10220" />
+              <path
+                 class="point"
+                 transform="translate(149.42,167.78)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(255, 0, 0); fill-opacity: 1;"
+                 id="path10222" />
+            </g>
+          </g>
+          <g
+             class="trace violins"
+             style="opacity: 1;"
+             id="g10260">
+            <path
+               class="violin"
+               d="M182.37,246.12L183.2,246.12Q183.66,243.49 183.99,242.19C184.33,240.87 184.74,239.57 185.22,238.27C185.71,236.95 186.3,235.64 186.91,234.34C187.53,233.02 188.25,231.72 188.94,230.42C189.63,229.11 190.39,227.81 191.06,226.49C191.72,225.19 192.39,223.89 192.94,222.57C193.48,221.27 193.97,219.96 194.36,218.64C194.75,217.34 195.03,216.02 195.29,214.71C195.55,213.41 195.72,212.1 195.94,210.79C196.17,209.48 196.35,208.16 196.64,206.86C196.93,205.55 197.26,204.24 197.69,202.94C198.12,201.62 198.65,200.31 199.23,199.01C199.82,197.69 200.51,196.38 201.19,195.08C201.87,193.77 202.65,192.48 203.32,191.16C203.98,189.86 204.68,188.56 205.19,187.23C205.68,185.94 206.15,184.63 206.35,183.31C206.55,182.01 206.6,180.67 206.42,179.38C206.23,178.06 205.79,176.73 205.21,175.46C204.59,174.11 203.68,172.81 202.74,171.53C201.74,170.18 200.53,168.89 199.34,167.6C198.12,166.27 196.77,164.99 195.5,163.68C194.24,162.37 192.93,161.08 191.75,159.75C190.61,158.46 189.48,157.17 188.52,155.83C187.6,154.55 186.76,153.24 186.06,151.9C185.39,150.62 184.84,149.3 184.39,147.97Q183.95,146.68 183.38,144.05L182.37,144.05"
+               style="vector-effect: non-scaling-stroke; stroke-width: 2px; stroke: rgb(139, 0, 139); stroke-opacity: 1; fill: rgb(139, 0, 139); fill-opacity: 0.5;"
+               id="path10228" />
+            <path
+               class="meanline"
+               d="M203.33038330078125,191.14H182.37"
+               style="fill: none; vector-effect: non-scaling-stroke; stroke-width: 2px; stroke-dasharray: 4px, 2px; stroke: rgb(139, 0, 139); stroke-opacity: 1;"
+               id="path10230" />
+            <g
+               class="points"
+               id="g10258">
+              <path
+                 class="point"
+                 transform="translate(216.45,222.39)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(139, 0, 139); fill-opacity: 1;"
+                 id="path10232" />
+              <path
+                 class="point"
+                 transform="translate(215.52,219.08)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(139, 0, 139); fill-opacity: 1;"
+                 id="path10234" />
+              <path
+                 class="point"
+                 transform="translate(216.73,215.65)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(139, 0, 139); fill-opacity: 1;"
+                 id="path10236" />
+              <path
+                 class="point"
+                 transform="translate(215.27,201.6)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(139, 0, 139); fill-opacity: 1;"
+                 id="path10238" />
+              <path
+                 class="point"
+                 transform="translate(215.82,198.56)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(139, 0, 139); fill-opacity: 1;"
+                 id="path10240" />
+              <path
+                 class="point"
+                 transform="translate(216.53,188.13)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(139, 0, 139); fill-opacity: 1;"
+                 id="path10242" />
+              <path
+                 class="point"
+                 transform="translate(216.01,185.4)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(139, 0, 139); fill-opacity: 1;"
+                 id="path10244" />
+              <path
+                 class="point"
+                 transform="translate(216.32,184.2)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(139, 0, 139); fill-opacity: 1;"
+                 id="path10246" />
+              <path
+                 class="point"
+                 transform="translate(215.71,182.09)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(139, 0, 139); fill-opacity: 1;"
+                 id="path10248" />
+              <path
+                 class="point"
+                 transform="translate(215.28,175.83)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(139, 0, 139); fill-opacity: 1;"
+                 id="path10250" />
+              <path
+                 class="point"
+                 transform="translate(216.37,172.92)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(139, 0, 139); fill-opacity: 1;"
+                 id="path10252" />
+              <path
+                 class="point"
+                 transform="translate(215.65,171.19)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(139, 0, 139); fill-opacity: 1;"
+                 id="path10254" />
+              <path
+                 class="point"
+                 transform="translate(216.76,167.78)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(139, 0, 139); fill-opacity: 1;"
+                 id="path10256" />
+            </g>
+          </g>
+          <g
+             class="trace violins"
+             style="opacity: 1;"
+             id="g10294">
+            <path
+               class="violin"
+               d="M302.63,150.53L301.94,150.53Q301.56,153.41 301.27,154.84C300.98,156.29 300.63,157.73 300.2,159.16C299.76,160.61 299.24,162.05 298.65,163.48C298.05,164.93 297.36,166.36 296.64,167.79C295.91,169.24 295.1,170.68 294.29,172.11C293.48,173.56 292.61,174.99 291.78,176.43C290.95,177.87 290.11,179.29 289.32,180.74C288.54,182.17 287.78,183.61 287.09,185.06C286.41,186.49 285.76,187.93 285.23,189.38C284.71,190.8 284.25,192.24 283.92,193.69C283.6,195.12 283.36,196.57 283.28,198.01C283.2,199.45 283.27,200.9 283.45,202.33C283.64,203.78 283.98,205.22 284.4,206.64C284.83,208.09 285.41,209.53 286.01,210.96C286.62,212.41 287.34,213.85 288.05,215.28C288.77,216.73 289.55,218.15 290.31,219.59C291.07,221.03 291.85,222.47 292.61,223.91C293.37,225.35 294.13,226.78 294.85,228.23C295.56,229.66 296.27,231.09 296.91,232.54C297.54,233.97 298.15,235.41 298.67,236.86C299.18,238.29 299.64,239.73 300,241.18C300.36,242.61 300.65,244.05 300.85,245.49C301.05,246.92 301.16,248.37 301.22,249.81C301.28,251.25 301.25,252.69 301.2,254.13C301.15,255.57 301.02,257 300.9,258.44C300.78,259.88 300.62,261.32 300.5,262.76C300.38,264.2 300.25,265.64 300.18,267.08C300.11,268.52 300.06,269.95 300.06,271.39C300.06,272.83 300.12,274.27 300.21,275.71C300.3,277.15 300.45,278.58 300.59,280.02C300.74,281.46 300.92,282.9 301.08,284.34C301.25,285.78 301.43,287.22 301.58,288.66C301.73,290.1 301.87,291.53 301.99,292.97Q302.11,294.41 302.28,297.29L302.63,297.29"
+               style="vector-effect: non-scaling-stroke; stroke-width: 2px; stroke: rgb(0, 0, 255); stroke-opacity: 1; fill: rgb(0, 0, 255); fill-opacity: 0.5;"
+               id="path10262" />
+            <path
+               class="meanline"
+               d="M284.0310363769531,205.3H302.63"
+               style="fill: none; vector-effect: non-scaling-stroke; stroke-width: 2px; stroke-dasharray: 4px, 2px; stroke: rgb(0, 0, 255); stroke-opacity: 1;"
+               id="path10264" />
+            <g
+               class="points"
+               id="g10292">
+              <path
+                 class="point"
+                 transform="translate(269.27,271.24)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 255); fill-opacity: 1;"
+                 id="path10266" />
+              <path
+                 class="point"
+                 transform="translate(268.53,223.8)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 255); fill-opacity: 1;"
+                 id="path10268" />
+              <path
+                 class="point"
+                 transform="translate(269.51,223.52)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 255); fill-opacity: 1;"
+                 id="path10270" />
+              <path
+                 class="point"
+                 transform="translate(268.33,212.72)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 255); fill-opacity: 1;"
+                 id="path10272" />
+              <path
+                 class="point"
+                 transform="translate(268.77,205.1)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 255); fill-opacity: 1;"
+                 id="path10274" />
+              <path
+                 class="point"
+                 transform="translate(269.36,202.59)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 255); fill-opacity: 1;"
+                 id="path10276" />
+              <path
+                 class="point"
+                 transform="translate(268.92,202.11)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 255); fill-opacity: 1;"
+                 id="path10278" />
+              <path
+                 class="point"
+                 transform="translate(269.26,200.84)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 255); fill-opacity: 1;"
+                 id="path10280" />
+              <path
+                 class="point"
+                 transform="translate(268.59,196.78)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 255); fill-opacity: 1;"
+                 id="path10282" />
+              <path
+                 class="point"
+                 transform="translate(268.07,188.09)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 255); fill-opacity: 1;"
+                 id="path10284" />
+              <path
+                 class="point"
+                 transform="translate(269.27,186.57)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 255); fill-opacity: 1;"
+                 id="path10286" />
+              <path
+                 class="point"
+                 transform="translate(268.59,178.92)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 255); fill-opacity: 1;"
+                 id="path10288" />
+              <path
+                 class="point"
+                 transform="translate(269.61,176.57)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 255); fill-opacity: 1;"
+                 id="path10290" />
+            </g>
+          </g>
+          <g
+             class="trace violins"
+             style="opacity: 1;"
+             id="g10328">
+            <path
+               class="violin"
+               d="M302.63,259.02L302.99,259.02Q303.17,255.81 303.3,254.21C303.43,252.61 303.58,251 303.75,249.4C303.92,247.8 304.12,246.19 304.32,244.59C304.53,242.99 304.75,241.38 304.98,239.78C305.21,238.18 305.44,236.57 305.68,234.97C305.92,233.36 306.16,231.75 306.44,230.15C306.72,228.54 307.01,226.94 307.38,225.34C307.75,223.73 308.15,222.12 308.65,220.53C309.15,218.92 309.74,217.31 310.38,215.72C311.03,214.1 311.79,212.51 312.53,210.91C313.27,209.3 314.1,207.7 314.82,206.09C315.54,204.49 316.27,202.9 316.85,201.28C317.42,199.69 317.91,198.09 318.26,196.47C318.6,194.88 318.8,193.27 318.93,191.66C319.06,190.06 319.04,188.45 319.06,186.85C319.08,185.25 319.03,183.64 319.07,182.04C319.11,180.43 319.17,178.82 319.29,177.22C319.41,175.61 319.64,174.01 319.81,172.41C319.98,170.81 320.23,169.21 320.31,167.6C320.39,166 320.47,164.39 320.31,162.79C320.15,161.18 319.84,159.56 319.36,157.98C318.86,156.35 318.13,154.75 317.34,153.17C316.52,151.54 315.5,149.94 314.52,148.35C313.53,146.73 312.41,145.15 311.41,143.54C310.42,141.95 309.4,140.35 308.53,138.73C307.68,137.15 306.89,135.54 306.23,133.92C305.59,132.34 305.06,130.73 304.62,129.11Q304.19,127.52 303.62,124.3L302.63,124.3"
+               style="vector-effect: non-scaling-stroke; stroke-width: 2px; stroke: rgb(0, 0, 139); stroke-opacity: 1; fill: rgb(0, 0, 139); fill-opacity: 0.5;"
+               id="path10296" />
+            <path
+               class="meanline"
+               d="M319.09808349609375,181.04H302.63"
+               style="fill: none; vector-effect: non-scaling-stroke; stroke-width: 2px; stroke-dasharray: 4px, 2px; stroke: rgb(0, 0, 139); stroke-opacity: 1;"
+               id="path10298" />
+            <g
+               class="points"
+               id="g10326">
+              <path
+                 class="point"
+                 transform="translate(336.62,229.74)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 139); fill-opacity: 1;"
+                 id="path10300" />
+              <path
+                 class="point"
+                 transform="translate(335.9,200.57)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 139); fill-opacity: 1;"
+                 id="path10302" />
+              <path
+                 class="point"
+                 transform="translate(336.75,199.42)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 139); fill-opacity: 1;"
+                 id="path10304" />
+              <path
+                 class="point"
+                 transform="translate(335.78,199.03)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 139); fill-opacity: 1;"
+                 id="path10306" />
+              <path
+                 class="point"
+                 transform="translate(336.14,193.46)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 139); fill-opacity: 1;"
+                 id="path10308" />
+              <path
+                 class="point"
+                 transform="translate(336.65,189.79)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 139); fill-opacity: 1;"
+                 id="path10310" />
+              <path
+                 class="point"
+                 transform="translate(336.26,181.42)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 139); fill-opacity: 1;"
+                 id="path10312" />
+              <path
+                 class="point"
+                 transform="translate(336.54,164.41)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 139); fill-opacity: 1;"
+                 id="path10314" />
+              <path
+                 class="point"
+                 transform="translate(336.04,163.33)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 139); fill-opacity: 1;"
+                 id="path10316" />
+              <path
+                 class="point"
+                 transform="translate(335.72,163.09)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 139); fill-opacity: 1;"
+                 id="path10318" />
+              <path
+                 class="point"
+                 transform="translate(336.5,159.81)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 139); fill-opacity: 1;"
+                 id="path10320" />
+              <path
+                 class="point"
+                 transform="translate(336.03,155.8)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 139); fill-opacity: 1;"
+                 id="path10322" />
+              <path
+                 class="point"
+                 transform="translate(337.06,153.58)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 139); fill-opacity: 1;"
+                 id="path10324" />
+            </g>
+          </g>
+          <g
+             class="trace violins"
+             style="opacity: 1;"
+             id="g10362">
+            <path
+               class="violin"
+               d="M422.88,146.28L421.89,146.28Q421.35,148.41 420.94,149.45C420.52,150.52 420.01,151.58 419.4,152.61C418.76,153.69 418.01,154.75 417.18,155.78C416.31,156.86 415.3,157.9 414.28,158.94C413.22,160.02 412.04,161.06 410.9,162.11C409.74,163.17 408.52,164.21 407.38,165.27C406.26,166.31 405.12,167.35 404.12,168.43C403.17,169.46 402.24,170.51 401.49,171.6C400.79,172.62 400.16,173.68 399.72,174.76C399.3,175.79 399.01,176.86 398.86,177.93C398.72,178.97 398.72,180.04 398.83,181.09C398.94,182.15 399.19,183.22 399.51,184.26C399.84,185.33 400.28,186.38 400.78,187.42C401.29,188.49 401.91,189.54 402.56,190.58C403.23,191.65 403.98,192.7 404.74,193.75C405.51,194.81 406.35,195.85 407.15,196.91C407.95,197.96 408.78,199.01 409.54,200.08C410.28,201.12 411.02,202.17 411.66,203.24C412.28,204.28 412.85,205.34 413.32,206.41C413.78,207.45 414.15,208.51 414.48,209.57C414.8,210.61 415.03,211.67 415.26,212.73C415.49,213.78 415.67,214.85 415.88,215.9C416.1,216.96 416.3,218.01 416.55,219.06C416.8,220.12 417.08,221.18 417.38,222.23C417.68,223.29 418.03,224.34 418.37,225.39C418.71,226.45 419.09,227.5 419.44,228.56C419.79,229.61 420.14,230.66 420.45,231.72C420.76,232.77 421.06,233.82 421.31,234.88C421.56,235.93 421.77,236.99 421.95,238.05Q422.13,239.1 422.38,241.21L422.88,241.21"
+               style="vector-effect: non-scaling-stroke; stroke-width: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.5;"
+               id="path10330" />
+            <path
+               class="meanline"
+               d="M400.2904052734375,186.35H422.88"
+               style="fill: none; vector-effect: non-scaling-stroke; stroke-width: 2px; stroke-dasharray: 4px, 2px; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+               id="path10332" />
+            <g
+               class="points"
+               id="g10360">
+              <path
+                 class="point"
+                 transform="translate(389.6,221.64)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 0); fill-opacity: 1;"
+                 id="path10334" />
+              <path
+                 class="point"
+                 transform="translate(388.71,211.64)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 0); fill-opacity: 1;"
+                 id="path10336" />
+              <path
+                 class="point"
+                 transform="translate(389.84,197.32)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 0); fill-opacity: 1;"
+                 id="path10338" />
+              <path
+                 class="point"
+                 transform="translate(388.49,193.11)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 0); fill-opacity: 1;"
+                 id="path10340" />
+              <path
+                 class="point"
+                 transform="translate(388.99,192.38)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 0); fill-opacity: 1;"
+                 id="path10342" />
+              <path
+                 class="point"
+                 transform="translate(389.67,187.11)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 0); fill-opacity: 1;"
+                 id="path10344" />
+              <path
+                 class="point"
+                 transform="translate(389.17,182.31)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 0); fill-opacity: 1;"
+                 id="path10346" />
+              <path
+                 class="point"
+                 transform="translate(389.53,180.53)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 0); fill-opacity: 1;"
+                 id="path10348" />
+              <path
+                 class="point"
+                 transform="translate(388.84,177.56)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 0); fill-opacity: 1;"
+                 id="path10350" />
+              <path
+                 class="point"
+                 transform="translate(388.41,174)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 0); fill-opacity: 1;"
+                 id="path10352" />
+              <path
+                 class="point"
+                 transform="translate(389.51,171.37)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 0); fill-opacity: 1;"
+                 id="path10354" />
+              <path
+                 class="point"
+                 transform="translate(388.81,167.77)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 0); fill-opacity: 1;"
+                 id="path10356" />
+              <path
+                 class="point"
+                 transform="translate(389.94,165.86)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(0, 0, 0); fill-opacity: 1;"
+                 id="path10358" />
+            </g>
+          </g>
+          <g
+             class="trace violins"
+             style="opacity: 1;"
+             id="g10396">
+            <path
+               class="violin"
+               d="M422.88,304L423.3,304Q423.52,296.89 423.68,293.33C423.84,289.78 424.03,286.22 424.26,282.67C424.49,279.11 424.76,275.56 425.06,272C425.36,268.44 425.7,264.89 426.05,261.33C426.4,257.78 426.78,254.22 427.14,250.67C427.51,247.11 427.89,243.56 428.24,240C428.59,236.44 428.94,232.89 429.25,229.33C429.56,225.78 429.85,222.23 430.11,218.67C430.37,215.12 430.59,211.56 430.8,208C431,204.44 431.16,200.89 431.34,197.33C431.51,193.78 431.66,190.22 431.85,186.67C432.04,183.11 432.22,179.55 432.5,176C432.78,172.44 433.09,168.88 433.55,165.33C434.01,161.77 434.55,158.21 435.24,154.67C435.93,151.1 436.78,147.55 437.69,144C438.6,140.43 439.7,136.88 440.71,133.33C441.73,129.77 442.88,126.24 443.78,122.67C444.67,119.13 445.57,115.57 446.1,112C446.62,108.46 446.97,104.88 446.93,101.33C446.89,97.77 446.5,94.2 445.86,90.67C445.21,87.09 444.16,83.53 443.03,80C441.89,76.41 440.42,72.88 439.03,69.33C437.64,65.77 436.08,62.24 434.69,58.67C433.31,55.13 431.92,51.58 430.74,48C429.57,44.46 428.52,40.9 427.64,37.33C426.77,33.79 426.07,30.24 425.49,26.67Q424.92,23.13 424.18,16L422.88,16"
+               style="vector-effect: non-scaling-stroke; stroke-width: 2px; stroke: rgb(128, 128, 128); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 0.5;"
+               id="path10364" />
+            <path
+               class="meanline"
+               d="M441.6389465332031,130.18H422.88"
+               style="fill: none; vector-effect: non-scaling-stroke; stroke-width: 2px; stroke-dasharray: 4px, 2px; stroke: rgb(128, 128, 128); stroke-opacity: 1;"
+               id="path10366" />
+            <g
+               class="points"
+               id="g10394">
+              <path
+                 class="point"
+                 transform="translate(456.8,238.93)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(128, 128, 128); fill-opacity: 1;"
+                 id="path10368" />
+              <path
+                 class="point"
+                 transform="translate(456.23,209.12)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(128, 128, 128); fill-opacity: 1;"
+                 id="path10370" />
+              <path
+                 class="point"
+                 transform="translate(456.97,182.97)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(128, 128, 128); fill-opacity: 1;"
+                 id="path10372" />
+              <path
+                 class="point"
+                 transform="translate(456.06,162.28)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(128, 128, 128); fill-opacity: 1;"
+                 id="path10374" />
+              <path
+                 class="point"
+                 transform="translate(456.4,121.16)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(128, 128, 128); fill-opacity: 1;"
+                 id="path10376" />
+              <path
+                 class="point"
+                 transform="translate(456.87,115.49)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(128, 128, 128); fill-opacity: 1;"
+                 id="path10378" />
+              <path
+                 class="point"
+                 transform="translate(456.52,104.68)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(128, 128, 128); fill-opacity: 1;"
+                 id="path10380" />
+              <path
+                 class="point"
+                 transform="translate(456.76,103.88)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(128, 128, 128); fill-opacity: 1;"
+                 id="path10382" />
+              <path
+                 class="point"
+                 transform="translate(456.29,103.58)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(128, 128, 128); fill-opacity: 1;"
+                 id="path10384" />
+              <path
+                 class="point"
+                 transform="translate(455.77,95.62)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(128, 128, 128); fill-opacity: 1;"
+                 id="path10386" />
+              <path
+                 class="point"
+                 transform="translate(456.83,87.09)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(128, 128, 128); fill-opacity: 1;"
+                 id="path10388" />
+              <path
+                 class="point"
+                 transform="translate(456.15,86.5)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(128, 128, 128); fill-opacity: 1;"
+                 id="path10390" />
+              <path
+                 class="point"
+                 transform="translate(457.26,81.07)"
+                 d="M3,0A3,3 0 1,1 0,-3A3,3 0 0,1 3,0Z"
+                 style="opacity: 1; stroke-width: 0px; fill: rgb(128, 128, 128); fill-opacity: 1;"
+                 id="path10392" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         class="overplot"
+         id="g10402" />
+      <path
+         class="xlines-above crisp"
+         d="M79,420.5H565"
+         style="fill: none; stroke-width: 1px; stroke: rgb(255, 255, 255); stroke-opacity: 1;"
+         id="path10404" />
+      <path
+         class="ylines-above crisp"
+         d="M79.5,100V420"
+         style="fill: none; stroke-width: 1px; stroke: rgb(255, 255, 255); stroke-opacity: 1;"
+         id="path10406" />
+      <g
+         class="overlines-above"
+         id="g10408" />
+      <g
+         class="xaxislayer-above"
+         id="g10426"
+         style="fill:#000000">
+        <g
+           class="xtick"
+           id="g10412"
+           style="fill:#000000">
+          <text
+             x="0"
+             y="435.4"
+             transform="translate(142.12,0)"
+             style="font-family:Times;font-size:14.66666667px;fill:#000000;fill-opacity:1;white-space:pre;-inkscape-font-specification:'Times, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+             id="text10410"
+             text-anchor="middle">SGD Classifier</text>
+        </g>
+        <g
+           class="xtick"
+           id="g10416"
+           style="fill:#000000">
+          <text
+             x="0"
+             y="435.4"
+             transform="translate(262.37,0)"
+             style="font-family:Times;font-size:14.66666667px;fill:#000000;fill-opacity:1;white-space:pre;-inkscape-font-specification:'Times, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+             id="text10414"
+             text-anchor="middle">Bernoulli NB</text>
+        </g>
+        <g
+           class="xtick"
+           id="g10420"
+           style="fill:#000000">
+          <text
+             x="0"
+             y="435.4"
+             transform="translate(382.63,0)"
+             style="font-family:'Open Sans', verdana, arial, sans-serif;font-size:12px;fill:#000000;fill-opacity:1;white-space:pre"
+             id="text10418"
+             text-anchor="middle">
+            <tspan
+               style="font-size:14.66666667px;-inkscape-font-specification:Times;font-family:Times;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+               id="tspan10666">Logistic Regresion</tspan>
+          </text>
+        </g>
+        <g
+           class="xtick"
+           id="g10424"
+           style="fill:#000000">
+          <text
+             x="0"
+             y="435.4"
+             transform="translate(502.88,0)"
+             style="font-family:'Open Sans', verdana, arial, sans-serif;font-size:12px;fill:#000000;fill-opacity:1;white-space:pre"
+             id="text10422"
+             text-anchor="middle">
+            <tspan
+               style="-inkscape-font-specification:Times;font-family:Times;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px"
+               id="tspan10668">Multinomial NB</tspan>
+          </text>
+        </g>
+        <image
+           y="446.7941"
+           x="95.705879"
+           id="image10687"
+           xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAAARCAIAAAA0UCX7AAAAA3NCSVQICAjb4U/gAAAFN0lEQVRo
+ge2ZUUhabRjHHw0duVjQ2txqELML3YhZMGYWQcZuIgovZlsxNwhSJKiLiNrwsugmmUSQFYTG6i5o
+sMUg5meRsSJpFxt1MYVKgiJXWImp57zfxfm+84lHX091lif2/e56n/95fN9f7zme4wGEEEKIJMkH
+Dx6sr68jBpgSDxkeHn727FlXV1dDQ4PT6TxfElM6OjrKzc2Ff1Eqlb9jFTx3zonkpCaBLt+8eXNj
+YyNpU0yJVwwMDBQXF4dCIYSQ1+u9cePG169fz5rENxkcHGxqauru7u7u7u7p6cH/My4Cb51zIhml
+MAktLS0mk4kkSZ1OhxCyWq0lJSXUAZgSD/n165dEIrFYLPTI8+fPKyoqzpTENyEIQqPRRCKR37UG
+3jvnRDJKbVLY0dFxfHzc3t7++PHjkZERl8vV29tLXT8xpQzy+fNntVrNHP/w4UMoFKqqqqJHqqqq
+lpaWfD4f+yS+ycePH79//97a2upwOEKhEMcLAwDeO+dEMmBMIoRIkpydnX3y5MnQ0FDChsWUaMLh
+8EEKDg8PE8I+n6+/v7+iosLr9dbX11+/fl0ul8/NzbE5NZ1OZ2VlpUAgePHiBbP68uVLAAgEAvTI
+7OwsANhsNvZJfJPW1tZr165R3vLz8z99+sRm2meFz845kYxSmwSHw3H37t2xsTGLxbK2tnbv3j2D
+wUDVMKV43r17l+qsysrKSgj/+PFDrVaLRKK2tja32z0+Pp6Xl5edne33+zFS3G53TU0NANTV1X37
+9i1phgrEYjF6ZHFxEQDMZjP7ZNomBEG4XC6dTgcAYrF4dXUVM+1zwHPnnEim/kxqEiwWy/v37xFC
+jx492tvbW15eNplM1AGYUjzb29t/pcDlcjHzRqNRKBTS5/3MzAwAvH37NqmU1dXV2tpaANBoNEtL
+Sxh9paWlIpEofsTj8QAAc86YJPsmk5OTQqGwoaEBM6VzwHPnnEhOSMab/OfJOhKJFBYWJr3wYErn
+w2g0JpzBEolEq9UmxH7+/KnVagFApVKx+WYpLy8XCAQkSdIjKysrAPDmzRv2SfZNEEKNjY05OTlp
+J3YOeOucE8nMtrRJIXWFF4lEfr9fqVQyL/6YEkU4HN5PQSAQSHVUPAUFBcfHxwmDwWBwc3MTAKRS
+6Z07d9I2KSoqQgidnJzEdwCA+/fvs0+ybwIAT58+PT09TTuxc8Bb55xIZralTQrZTB2PzWa7lQKp
+VMqmw/7+vkKhSBgsKyvzeDzT09M+n0+pVOr1eubjWzyVlZUA4PV66RG/3w8A1dXV7JPsmwAAQRAP
+Hz5Mv7zfQKaccyKZOZn/TLK61mPZ2tqaS8GXL1+Y+YQvjvX1dQDA3BcSBDE1NSWXy0Uikclk2tnZ
+SRrb3d2VSCRDQ0P0SEdHR/xPYsFg8ODgAJ9M2yQenU7HfKK8HDLlnBPJTGiTHGzHs2I0GgFgYWEB
+IRSNRuvr61+/fp32qFgsZrfbZTJZdnZ2T09P0ozVapXL5dRrgMPDw6KiIrfbTVeLi4tv375N3c5j
+kqlK8/PzMpmsr6/v9PQUITQ5Ofnq1av4eyM+w6Hzi0vGmMzMdszKyjKbzc3NzSqVqrOzk5oWG6LR
+6OjoqEwmSxWw2Wx1dXWdnZ16vT7hDZ5GoyktLSUIIm0yaWlra6u8vFwsFisUCoPBMDExcYY1Zxpu
+nV9QMsZkxrbjRTqwV/k/FFfFOQePMpePWCzO9BT+OC7HeQa2YzQaJUkyFotd/kf/sVwV55e9He12
+O/WCsq2tbXl5+ZI//c/kCjn/G57ZEuqhhRemAAAAAElFTkSuQmCC
+"
+           preserveAspectRatio="none"
+           height="17"
+           width="218" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 105.88235,249.41176 V 95.294118 h 428.2353 v 72.941172 0 0 0"
+           id="path10690"
+           inkscape:connector-curvature="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Times;-inkscape-font-specification:'Times, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="307.52942"
+           y="91.294121"
+           id="text10694"><tspan
+             sodipodi:role="line"
+             id="tspan10692"
+             x="307.52942"
+             y="91.294121"
+             style="font-size:21.33333397px">*</tspan></text>
+      </g>
+      <g
+         class="yaxislayer-above"
+         id="g10460"
+         style="fill:#000000">
+        <g
+           class="ytick"
+           id="g10430"
+           style="fill:#000000">
+          <text
+             x="76.6"
+             y="4.199999999999999"
+             transform="translate(0,384.74)"
+             style="font-family:'Open Sans', verdana, arial, sans-serif;font-size:12px;fill:#000000;fill-opacity:1;white-space:pre"
+             id="text10428"
+             text-anchor="end">0.3</text>
+        </g>
+        <g
+           class="ytick"
+           id="g10434"
+           style="fill:#000000">
+          <text
+             x="76.6"
+             y="4.199999999999999"
+             transform="translate(0,345.76)"
+             style="font-family:'Open Sans', verdana, arial, sans-serif;font-size:12px;fill:#000000;fill-opacity:1;white-space:pre"
+             id="text10432"
+             text-anchor="end">0.35</text>
+        </g>
+        <g
+           class="ytick"
+           id="g10438"
+           style="fill:#000000">
+          <text
+             x="76.6"
+             y="4.199999999999999"
+             transform="translate(0,306.78)"
+             style="font-family:'Open Sans', verdana, arial, sans-serif;font-size:12px;fill:#000000;fill-opacity:1;white-space:pre"
+             id="text10436"
+             text-anchor="end">0.4</text>
+        </g>
+        <g
+           class="ytick"
+           id="g10442"
+           style="fill:#000000">
+          <text
+             x="76.6"
+             y="4.199999999999999"
+             transform="translate(0,267.8)"
+             style="font-family:'Open Sans', verdana, arial, sans-serif;font-size:12px;fill:#000000;fill-opacity:1;white-space:pre"
+             id="text10440"
+             text-anchor="end">0.45</text>
+        </g>
+        <g
+           class="ytick"
+           id="g10446"
+           style="fill:#000000">
+          <text
+             x="76.6"
+             y="4.199999999999999"
+             transform="translate(0,228.82)"
+             style="font-family:'Open Sans', verdana, arial, sans-serif;font-size:12px;fill:#000000;fill-opacity:1;white-space:pre"
+             id="text10444"
+             text-anchor="end">0.5</text>
+        </g>
+        <g
+           class="ytick"
+           id="g10450"
+           style="fill:#000000">
+          <text
+             x="76.6"
+             y="4.199999999999999"
+             transform="translate(0,189.84)"
+             style="font-family:'Open Sans', verdana, arial, sans-serif;font-size:12px;fill:#000000;fill-opacity:1;white-space:pre"
+             id="text10448"
+             text-anchor="end">0.55</text>
+        </g>
+        <g
+           class="ytick"
+           id="g10454"
+           style="fill:#000000">
+          <text
+             x="76.6"
+             y="4.199999999999999"
+             transform="translate(0,150.87)"
+             style="font-family:'Open Sans', verdana, arial, sans-serif;font-size:12px;fill:#000000;fill-opacity:1;white-space:pre"
+             id="text10452"
+             text-anchor="end">0.6</text>
+        </g>
+        <g
+           class="ytick"
+           id="g10458"
+           style="fill:#000000">
+          <text
+             x="76.6"
+             y="4.199999999999999"
+             transform="translate(0,111.89)"
+             style="font-family:'Open Sans', verdana, arial, sans-serif;font-size:12px;fill:#000000;fill-opacity:1;white-space:pre"
+             id="text10456"
+             text-anchor="end">0.65</text>
+        </g>
+      </g>
+      <g
+         class="overaxes-above"
+         id="g10462" />
+    </g>
+  </g>
+  <g
+     class="polarlayer"
+     id="g10468" />
+  <g
+     class="ternarylayer"
+     id="g10470" />
+  <g
+     class="geolayer"
+     id="g10472" />
+  <g
+     class="funnelarealayer"
+     id="g10474" />
+  <g
+     class="pielayer"
+     id="g10476" />
+  <g
+     class="treemaplayer"
+     id="g10478" />
+  <g
+     class="sunburstlayer"
+     id="g10480" />
+  <g
+     class="glimages"
+     id="g10482" />
+  <defs
+     id="topdefs-8e615e">
+    <g
+       class="clips"
+       id="g10484" />
+    <clipPath
+       id="legend8e615e">
+      <rect
+         width="113"
+         height="162"
+         x="0"
+         y="0"
+         id="rect10486" />
+    </clipPath>
+  </defs>
+  <g
+     class="layer-above"
+     id="g10494">
+    <g
+       class="imagelayer"
+       id="g10490" />
+    <g
+       class="shapelayer"
+       id="g10492" />
+  </g>
+  <g
+     class="infolayer"
+     id="g10658">
+    <g
+       class="g-gtitle"
+       id="g10652"
+       transform="translate(43.529412,36.470588)">
+      <text
+         class="gtitle"
+         x="35"
+         y="50"
+         dy="0em"
+         style="font-weight:normal;font-size:18.66666667px;font-family:Times;text-anchor:start;white-space:pre;opacity:1;fill:#000000;-inkscape-font-specification:'Times, Normal';font-style:normal;font-stretch:normal;font-variant:normal;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         id="text10650">Precision</text>
+    </g>
+    <g
+       class="g-xtitle"
+       id="g10654" />
+    <g
+       class="g-ytitle"
+       id="g10656" />
+  </g>
+</svg>
